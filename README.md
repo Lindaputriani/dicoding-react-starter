@@ -1,2 +1,2 @@
 # dicoding-react-starter
-Created with CodeSandbox
+Created with CodeSandbox (Linda)
